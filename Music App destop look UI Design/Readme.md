@@ -7,3 +7,7 @@ This is a UI Design of a music application desktop look that I made using figma 
 <h1>Ticket</h1>
 
 ![photo_2023-01-02_12-28-25](https://user-images.githubusercontent.com/71378462/210250543-24853aa1-dca9-4ba0-be75-b276644eb0ad.jpg)
+
+<h1>Figma Link </h1>
+
+https://www.figma.com/file/lRwoMaqgmR31BdPQtGJ4g7/Untitled?node-id=0%3A1&t=aw707vsasOEM4fsb-1
